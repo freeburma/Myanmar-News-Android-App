@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">မြန်မာ သတင်းဌာနများ</string>
+
+    <!---
+        "mediaList" and "mediaUrlList" string-arrays' orders are co-related.
+        The order must be matched.
+    -->
+    <string-array name="mediaList">
+        <item name="khit_thit_media">ခေတ်သစ်မီဒီယာ</item>
+        <item name="irrawaddy">ဧရာ၀တီ</item>
+        <item name="bbc">BBC</item>
+        <item name="rfa">RFA</item>
+        <item name="voa">VOA</item>
+    </string-array>
+
+    <string-array name="mediaUrlList">
+        <item name="khit_thit_media_url">https://yktnews.com/</item>
+        <item name="irrawaddy_url">https://burma.irrawaddy.com/</item>
+        <item name="bbc_url">https://www.bbc.com/burmese</item>
+        <item name="rfa_url">https://www.rfa.org/burmese</item>
+        <item name="voa_url">https://burmese.voanews.com/</item>
+    </string-array>
+
+</resources>

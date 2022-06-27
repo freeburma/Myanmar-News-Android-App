@@ -1,7 +1,6 @@
 # Myanmar-News-Android-App
 
-This is an Android app which based on TabViews. When the user choose the desire it will load the corresponding 
-URL and display it on the WebView. 
+This is an Android app which based on TabViews. When the user choose the desired tab, it will load the corresponding URL and display it on the WebView. 
 
 The user can swipe the tabs using the FragmentViewer. 
 
